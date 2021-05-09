@@ -1,8 +1,8 @@
 Test Git Quick Start demo
 
 
-Modified
+Modified updating conflicting change in main branch
 
 This change is done is title-change branch
 
-This is copyright symbol change
+This is copyright symbol change, this should result in conflict
