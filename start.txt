@@ -8,3 +8,6 @@ Modified updating conflicting change in main branch
 This change is done is title-change branch
 
 This is copyright symbol change, updated this text on branch
+
+
+Added some text on the feature branch
