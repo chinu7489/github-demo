@@ -1,6 +1,8 @@
 Test Git Quick Start demo
 
 
+Added text in the main branch
+
 Modified updating conflicting change in main branch
 
 This change is done is title-change branch
