@@ -1,8 +1,8 @@
 Test Git Quick Start demo
 
 
-Modified
+Modified updated text on branch
 
 This change is done is title-change branch
 
-This is copyright symbol change
+This is copyright symbol change, updated this text on branch
